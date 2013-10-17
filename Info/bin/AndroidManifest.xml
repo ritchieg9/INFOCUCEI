@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="inf.ritchieg9.cucei"
+    android:versionCode="1"
+    android:versionName="1.0" >
+    
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="inf.ritchieg9.cucei.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="inf.ritchieg9.cucei.General"
+            android:label="@string/title_activity_general" >
+        </activity>
+        <activity
+            android:name="inf.ritchieg9.cucei.Egresados"
+            android:label="@string/title_activity_egresados" >
+        </activity>
+        <activity
+            android:name="inf.ritchieg9.cucei.Materias"
+            android:label="@string/title_activity_materias" >
+        </activity>
+        <activity
+            android:name="inf.ritchieg9.cucei.Directorio"
+            android:label="@string/title_activity_directorio" >
+        </activity>
+        <activity
+            android:name="inf.ritchieg9.cucei.Especialidad"
+            android:label="@string/title_activity_especialidad" >
+        </activity>
+        <activity
+            android:name="inf.ritchieg9.cucei.Galeria"
+            android:label="@string/title_activity_galeria" >
+        </activity>
+        <activity
+            android:name="inf.ritchieg9.cucei.Twitter"
+            android:label="@string/title_activity_twitter" >
+        </activity>
+        <activity
+            android:name="inf.ritchieg9.cucei.Facebook"
+            android:label="@string/title_activity_facebook" >
+        </activity>
+        <activity
+            android:name="inf.ritchieg9.cucei.Acercade"
+            android:label="@string/title_activity_acercade" >
+        </activity>
+        <activity
+            android:name="inf.ritchieg9.cucei.Extras"
+            android:label="@string/title_activity_extras" >
+        </activity>
+        
+    </application>
+
+</manifest>

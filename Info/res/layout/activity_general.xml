@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:scrollbarStyle="insideInset"
+android:fadeScrollbars="true"
+android:scrollbarSize="10dip"
+android:fitsSystemWindows="true" 
+android:background="#f0f0f0">
+<LinearLayout
+android:orientation="vertical"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+ >
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/web_hi_res_512" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"
+        android:text="@string/section1_1"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+<HorizontalScrollView
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:scrollbarStyle="insideInset"
+android:fadeScrollbars="true"
+android:scrollbarSize="10dip"
+android:fitsSystemWindows="true"   >
+
+</HorizontalScrollView>
+
+<HorizontalScrollView
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:scrollbarStyle="insideInset"
+android:fadeScrollbars="true"
+android:scrollbarSize="10dip"
+android:fitsSystemWindows="true" >
+
+</HorizontalScrollView>
+</LinearLayout>
+</ScrollView>

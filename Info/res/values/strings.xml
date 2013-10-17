@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">INF CUCEI</string>
+    <string name="action_settings">Ricardo Valtierra</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hello">Categorías</string>
+    <string name="title_activity_general">General</string>
+    <string name="title_activity_egresados">Egresados</string>
+    <string name="title_activity_materias">Materias</string>
+    <string name="title_activity_directorio">Directorio</string>
+    <string name="title_activity_especialidad">Especialidad</string>
+    <string name="title_activity_galeria">Galeria</string>
+    <string name="title_activity_twitter">Twitter</string>
+    <string name="title_activity_facebook">Facebook</string>
+    <string name="title_activity_acercade">Acerca de</string>
+    <string name="title_activity_extras">Extras</string>
+    
+    <string name="section1_1">En el año 2030, el CUCEI es un Centro Universitario de reconocido prestigio internacional y liderazgo. La calidad de sus egresados, sus programas de investigación, extensión y vinculación, así como su fortaleza académico – administrativa, lo sustentan. En sus actividades se manifiesta identidad institucional, mejora constante, práctica de valores y corresponsabilidad social.
+
+Sus actividades de investigación se desarrollan a través de grupos consolidados, con líneas de generación y aplicación del conocimiento e índices de productividad comparables con los más altos obtenidos por instituciones nacionales. Generan productos que, además de registrarse como propiedad intelectual, se encuentran estrechamente vinculados a los programas educativos y a las necesidades del entorno.</string>
+    
+    <string name="section2_1_1">Centro Universitario de Ciencias Exactas e Ingenierías.</string>
+    <string name="section2_1_2">Perfil del Egresado en Informática.</string>
+    <string name="section2_1_3">El presente documento tiene como objetivo informar al egresado de la Licenciatura en Ingeniería en Computación del CUCEI,  sobre el proceso de titulación.</string>
+    <string name="section2_1_4">Capacidad para usar técnicas experimentales, analíticas y heurísticas para la solución de problemas. Conocimiento en hardware, software y aplicaciones; así como en técnicas básicas que representan el proceso computacional en todas sus áreas de aplicación. Capacidad de desarrollar sistemas y encontrar soluciones creativas e innovadoras para las necesidades en sus lugares de trabajo. Experiencia educacional integrada que le permita obtener la habilidad de aplicar conocimientos pertinentes en la identificación y solución sistemática de problemas prácticos en su área de especialización. Capacidad de proseguir estudios de posgrado.</string>
+    <string name="section2_1_5">Campo Laboral.</string>
+    
+    <string name="section2_1_6">Para cumplir con la demanda ocupacional, el profesional de la informática deberá estar actualizado en la utilización de computadores desde PC`s hasta mainframes, en el diseño de bases de datos y sistemas de redes, así como en la capacidad de elaborar software que resuelva diversas aplicaciones complejas, para lo cual debe involucrarse en las diferentes ramas de la ingeniería. Su área principal de desempeño se encuentra en los sistema de información, mediante los cuales se guía la operación cotidiana de las empresas en la interacción con sus diferentes áreas operativas, gerenciales y de dirección, así como también en el manejo y creación de bases de datos y en la ingeniería de software y, por tanto, se establece por objetivo formar profesionales orientados a la creación o el mantenimiento de los sistemas de información.</string>
+    <string name="section2_1_7">Titulación.</string>
+    <string name="section2_1_8">En la orientación de sistemas computacionales al menos 398 créditos y como máximo 416 créditos, considerando que los créditos del área de formación optativa abierta son mínimo 40 y máximo 58.
+\nEn la orientación de sistemas de información al menos 392 créditos y como máximo 410 créditos, considerando que los créditos del área de formación optativa abierta son mínimo 48 y máximo 66.
+\nRealizar los trámites para el proceso de titulación conforme al Reglamento General de Titulación de la Universidad de Guadalajara.</string>
+    <string name="section2_1_9">Tesis: Es un trabajo de investigación inédito, que tendrá como objetivo presentar nuevosconocimientos, métodos, interpretaciones sobre cualquier aspecto de una realidadsocial determinada. En el campo del diseño el producto final, éste puede ser unproyecto, un prototipo o un modelo.</string>
+    
+        
+    <string name="section3_1_0">Materias</string>
+    <string name="section3_1_1">\nCC100	 INTRODUCCION A LA COMPUTACION	     
+\nCC101	 TALLER DE INTRODUCCION A LA COMPUTACION	     
+\nCC102	 INTRODUCCION A LA PROGRAMACION	     
+\nCC103	 TALLER DE PROGRAMACION ESTRUCTURADA	     
+\nCC105	 COMPUTACION BASICA	     
+\nCC106	 PROGRAMACION	     
+\nCC107	 PAQUETES INFORMATICOS	     
+\nCC108	 PROGRAMACION ESTRUCTURADA	     
+\nCC109	 PROGRAMACION PARA INTERFACES	     
+\nCC200	 PROGRAMACION ORIENTADA A OBJETOS	     
+\nCC201	 TALLER DE PROGRAMACION ORIENTADA A OBJETOS	     
+\nCC202	 ESTRUCTURA DE DATOS	     
+\nCC203	 TALLER DE ESTRUCTURA DE DATOS	     
+\nCC204	 ESTRUCTURA DE ARCHIVOS	     
+\nCC205	 TALLER DE ESTRUCTURA DE ARCHIVOS	     
+\nCC206	 PROGRAMACION DE SISTEMAS	     
+\nCC207	 TALLER DE PROGRAMACION DE SISTEMAS	     
+\nCC208	 LENGUAJES DE PROGRAMACION COMPARADOS	     
+\nCC209	 TEORIA DE LA COMPUTACION	     
+\nCC210	 ARQUITECTURA DE COMPUTADORAS	     
+\nCC211	 TELEINFORMATICA	     
+\nCC212	 REDES DE COMPUTADORAS	     
+\nCC213	 TALLER DE REDES DE COMPUTADORAS	     
+\nCC214	 FUNDAMENTOS DE REDES	     
+\nCC215	 PROGRAMACION AVANZADA	     
+\nCC216	 REDES LOCALES DE DATOS	     
+\nCC217	 MANEJO DE BASES DE DATOS	     
+\nCC218	 PROGRAMACION PARA INTERNET	     
+\nCC219	 TALLER DE MANTENIMIENTO DE EQUIPO DE COMPUTO	     
+\nCC220	 FUNDAMENTOS DE ESTRUCTURAS DE DATOS	     
+\nCC300	 SISTEMAS OPERATIVOS	     
+\nCC301	 TALLER DE SISTEMAS OPERATIVOS	     
+\nCC302	 BASES DE DATOS	     
+\nCC303	 TALLER DE BASES DE DATOS	     
+\nCC304	 INGENIERIA DE SOFTWARE I	     
+\nCC305	 INGENIERIA DE SOFTWARE II	     
+\nCC306	 TALLER DE INGENIERIA DE SOFTWARE II	     
+\nCC307	 PROGRAMACION LOGICA Y FUNCIONAL	     
+\nCC308	 TALLER DE PROGRAMACION LOGICA Y FUNCIONAL	     
+\nCC309	 BASES DE DATOS AVANZADAS	     
+\nCC310	 TALLER DE BASES DE DATOS AVANZADAS	     
+\nCC311	 GRAFICAS POR COMPUTADORA	     
+\nCC312	 TALLER DE GRAFICAS POR COMPUTADORA	     
+\nCC313	 ADMINISTRACION DE BASES DE DATOS	     
+\nCC314	 TALLER DE ADMINISTRACION DE BASES DE DATOS	     
+\nCC315	 SISTEMAS DE INFORMACION ADMINISTRATIVOS	     
+\nCC316	 ANALISIS Y DISE�O DE ALGORITMOS	     
+\nCC317	 COMPILADORES	     
+\nCC318	 TALLER DE COMPILADORES	     
+\nCC319	 SISTEMAS OPERATIVOS AVANZADOS	     
+\nCC320	 TALLER DE SISTEMAS OPERATIVOS AVANZADOS	     
+\nCC321	 FUNDAMENTOS DE INGENIERIA DE SOFTWARE	     
+\nCC322	 ORGANIZACION DE COMPUTADORAS I	     
+\nCC323	 ORGANIZACION DE COMPUTADORAS II	     
+\nCC324	 REDES DE COMPUTADORAS AVANZADAS	     
+\nCC325	 TALLER DE REDES AVANZADAS	     
+\nCC327	 TALLER DE ADMINISTRACION DE SISTEMAS OPERATIVOS	     
+\nCC328	 REDES METROPOLITANAS Y DE COBERTURA AMPLIA	     
+\nCC329	 ADMINISTRACION Y DISE�O DE REDES	     
+\nCC330	 PROYECTOS DE TELECOMUNICACIONES	     
+\nCC331	 ETICA PROFESIONAL Y COMPUTACIONAL	     
+\nCC332	 ANALISIS Y DISE�O DE SISTEMAS DE INFORMACION	     
+\nCC333	 OFIMATICA	     
+\nCC334	 TALLER DE SISTEMAS OFIMATICOS	     
+\nCC335	 PROYECTOS DE INFORMATICA	     
+\nCC336	 CALIDAD EN LA INFORMATICA	     
+\nCC337	 AUDITORIA INFORMATICA	     
+\nCC400	 SISTEMAS EXPERTOS	     
+\nCC401	 PROGRAMACION DE SISTEMAS MULTIMEDIA	     
+\nCC403	 AUDITORIA DE SISTEMAS	     
+\nCC404	 SISTEMAS DE INFORMACION FINANCIEROS	     
+\nCC405	 SISTEMAS DE INFORMACION PARA LA MANUFACTURA	     
+\nCC407	 PROYECTO TERMINAL	     
+\nCC408	 SIMULACION DE SISTEMAS DIGITALES	     
+\nCC409	 ARQUITECTURA DE COMPUTADORAS AVANZADA	     
+\nCC410	 REDES NEURONALES ARTIFICIALES	     
+\nCC411	 COMPUTACION TOLERANTE A FALLAS	     
+\nCC413	 PROGRAMACION CONCURRENTE Y DISTRIBUIDA	     
+\nCC414	 TALLER DE PROGRAMACION CONCURRENTE Y DISTRIBUIDA	     
+\nCC415	 INTELIGENCIA ARTIFICIAL	     
+\nCC417	 TOPICOS SELECTOS DE COMPUTACION I	     
+\nCC418	 TOPICOS SELECTOS DE COMPUTACION II	     
+\nCC419	 TOPICOS SELECTOS DE COMPUTACION III	     
+\nCC420	 TOPICOS SELECTOS DE INFORMATICA I	     
+\nCC421	 TOPICOS SELECTOS DE INFORMATICA II	     
+\nCC422	 TOPICOS SELECTOS DE INFORMATICA III	     
+\nCC423	 MULTIMEDIA	     
+\nCC425	 TOPICOS DE INFORMATICA	     
+\nCC406	 SISTEMAS DE INFORMACION PARA LA TOMA DE DECISIONES</string>
+    
+    <string name="section4_1_1">Rector</string>
+    <string name="section4_1_2">Dr. Cesar Octavio Monzón</string>
+    <string name="section4_1_3">rector@cucei.udg.mx</string>
+    <string name="section4_2_1">Secretario Académico</string>
+    <string name="section4_2_2">Mtro. Sergio Fernando Limones</string>
+    <string name="section4_2_3">sac@cucei.udg.mx</string>
+    <string name="section4_3_1">Coordinador de Carrera</string>
+    <string name="section4_3_2">Mtra. Sonia Osorio Ángel</string>
+    <string name="section4_3_3">cdinf@cucei.udg.mx</string>
+    
+    <string name="section5_0_1">Se establece por objetivo formar profesionales orientados hacia el hardware y el software de los sistemas de cómputo.</string>
+    <string name="section5_1_1">Software de Sistemas</string>
+    <string name="section5_1_2">El profesional de ingeniería en Informática con especialidad en software de sistemas podrá diseñar y desarrollar sistemas de software de base (los sistemas de programación primordiales en una computadora); interactuar con subsistemas digitales y de telecomunicaciones (redes); diseñar e implantar sistemas operativos; diseñar y concebir nuevos lenguajes de programación, así como construir traductores (compiladores); especificar arquitecturas de computadora y desarrollar el software de aplicación que le compete.</string>
+    <string name="section5_2_1">Sistemas Digitales - Hardware</string>
+    <string name="section5_2_2">El profesional de ingeniería en Informática con especialidad en sistemas digitales podrá diseñar, construir, instalar, operar y dar mantenimiento a sistemas digitales e interfaces aplicables a la tecnología computacional y a la teleinformática; diseñar e implantar organizaciones de computadoras y desarrollar la realización electrónica que le compete; diseñar e instrumentar herramientas de software necesarias para el manejo del hardware; concebir, diseñar y construir hardware computacional que satisfaga definiciones de funcionabilidad y fines específicos; concebir, diseñar y construir sistemas de transmisión y comunicación de información (redes).</string>
+    
+    <string name="section8_1_1">Siguenos en Facebook</string>
+    <string name="section8_1_2">Lic. en Informática</string>
+    <string name="section8_1_3">https://www.facebook.com/Informatica-CUCEI</string>
+    
+    <string name="section9_1_1">Ricardo Valtierra</string>
+    <string name="section9_1_2">Ing. en Computación</string>
+    <string name="section9_1_3">206510523</string>
+    <string name="section9_1_4">Programación de Android.</string>
+    <string name="section9_1_5">Version 1.0.5</string>
+    
+    <string name="section10_1_1">Próximamente</string>
+   
+    
+</resources>
